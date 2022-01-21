@@ -1,5 +1,3 @@
-'use strict'
-
 const formatarDigito = (digito) => `0${digito}`.slice(-2);
 
 const atualizarTempo = (tempo) => {
